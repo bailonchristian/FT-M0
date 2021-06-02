@@ -1,0 +1,7 @@
+1. Variable: es un espacio digamos una caja donde podemos guardar informacion que despues podemos utilizar.
+Strings: son cadenas de caracteres o cadenas texto.
+Funciones. Son procedimientos que para que funcionen deben recibir un parametro de entrada y devolver a si mismo una salida
+Argumentos. Son los valores que se pasan a un funcion una vez que fue invocada.
+Return. Corta la ejecucion de un programa y regresa el valor de la funcion.
+Declaraciones if. son condiciones que permiten que se ejecute un codigo mientras una condicion se cumple.
+Valores Booleanos. Son datos Primitivos en javascript solo tienes dos posibilidades true y false (veradero y falso)
