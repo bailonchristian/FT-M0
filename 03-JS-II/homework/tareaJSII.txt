@@ -1,0 +1,8 @@
+For.
+Es un ciclo que se utiliza para repetir una o mas  instrucciones un determinado numero de veces. Lo mejor es utilizarlo cuando se conoce las veces que queremos que se repita.
+&&,||,!.
+Son operadores logicos 
+AND,(y),&&
+OR,(o),||
+Not(Negacion),!
+se utlizan para tomar decisiones sobre instrucciones que debe ejecutar el programa en funcion.
